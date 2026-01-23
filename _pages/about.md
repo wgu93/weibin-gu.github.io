@@ -1,15 +1,24 @@
 ---
 permalink: /
-title: "Hello there, I'm Weibin!"
+title: "Weibin Gu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi there, I’m Weibin Gu. Currently, I’m a Postdoctoral Fellow at the Institute for AI Industry Research (AIR), Tsinghua University. My work is anchored at the intersection of machine learning and control theory, where I develop frameworks to ensure the trustworthiness of learning-based approaches in complex, autonomous robotic systems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a firm believer in learning from nature to solve engineering bottlenecks. This curiosity drives my current focus on bio-inspired robot prototyping—specifically flapping-wing micro-air vehicles—and the development of neuromorphic algorithms for efficient, embodied AI. I aim to move beyond traditional black-box models toward systems that mimic the elegance and resilience of biological intelligence.
+
+However, I don't believe research should stop at a publication. I am equally passionate about the "how" and "why" of technology in the real world—from articulating product strategies to leading teams through the build process. My ultimate goal is transforming cutting-edge research into innovative, marketable products that solve tangible industrial challenges.
+
+🚀 Research opportunities
+I am always looking to collaborate with curious minds. I am actively recruiting research interns to push the boundaries of bio-inspired robotics in the following areas:
+- Neuromorphic Hardware & Algorithm Co-design
+- High-Fidelity Modeling & Simulation
+- Bio-inspired Embodied Intelligence
+Interested in joining? Please find the specific project requirements in the Research Panel and contact me via email: guweibin (at) air (dot) tsinghua (dot) edu (dot) cn
 
 A data-driven personal website
 ======

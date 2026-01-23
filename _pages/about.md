@@ -14,10 +14,12 @@ I am a firm believer in learning from nature to solve engineering bottlenecks. T
 However, I don't believe research should stop at a publication. I am equally passionate about the "how" and "why" of technology in the real world—from articulating product strategies to leading teams through the build process. My ultimate goal is transforming cutting-edge research into innovative, marketable products that solve tangible industrial challenges.
 
 🚀 Research opportunities
-I am always looking to collaborate with curious minds. I am actively recruiting research interns to push the boundaries of bio-inspired robotics in the following areas:
+
+I am always looking to collaborate with curious minds and actively recruiting research interns to push the boundaries of bio-inspired robotics in the following areas:
 - Neuromorphic Hardware & Algorithm Co-design
 - High-Fidelity Modeling & Simulation
 - Bio-inspired Embodied Intelligence
+
 Interested in joining? Please find the specific project requirements in the Research Panel and contact me via email: guweibin (at) air (dot) tsinghua (dot) edu (dot) cn
 
 A data-driven personal website

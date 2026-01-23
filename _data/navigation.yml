@@ -16,8 +16,8 @@ main:
     # url: /publications/
     url: https://scholar.google.com/citations?user=PDP31hEAAAAJ&hl=en
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
 
   # - title: "Talks"
   #   url: /talks/    
